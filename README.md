@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yassinekadrii
-- 👀 I’m interested in programation and security 
+- 👀 I’m interested in programming and security 
 - 🌱 I’m currently learning python and web-mobille dev 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "contact me"
